@@ -1,4 +1,5 @@
-# Shopify Sales Intelligence Project
+# Shopify Trending Product Analysis
+
 
 > An end-to-end data analysis project using **T-SQL (SSMS)** and **Python** to extract business insights from 1,000 Shopify trending products in 2025.
 
